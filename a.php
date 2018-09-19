@@ -1,5 +1,4 @@
 <?php
-echo 'fff';
 echo 'ddd';
 echo 'eee';
 echo 'aaa';
